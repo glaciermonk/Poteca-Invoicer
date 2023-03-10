@@ -1,0 +1,26 @@
+C:\Users\User\AppData\Local\Temporary Projects\Poteca Invoice Generator\bin\Debug\Poteca Invoice Generator.exe
+C:\Users\User\AppData\Local\Temporary Projects\Poteca Invoice Generator\bin\Debug\Poteca Invoice Generator.pdb
+C:\Users\User\AppData\Local\Temporary Projects\Poteca Invoice Generator\bin\Debug\Poteca Invoice Generator.xml
+C:\Users\User\AppData\Local\Temporary Projects\Poteca Invoice Generator\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\User\AppData\Local\Temporary Projects\Poteca Invoice Generator\obj\Debug\Poteca_Invoice_Generator.Form1.resources
+C:\Users\User\AppData\Local\Temporary Projects\Poteca Invoice Generator\obj\Debug\Poteca_Invoice_Generator.Resources.resources
+C:\Users\User\AppData\Local\Temporary Projects\Poteca Invoice Generator\obj\Debug\Poteca Invoice Generator.vbproj.GenerateResource.Cache
+C:\Users\User\AppData\Local\Temporary Projects\Poteca Invoice Generator\obj\Debug\Poteca Invoice Generator.exe
+C:\Users\User\AppData\Local\Temporary Projects\Poteca Invoice Generator\obj\Debug\Poteca Invoice Generator.xml
+C:\Users\User\AppData\Local\Temporary Projects\Poteca Invoice Generator\obj\Debug\Poteca Invoice Generator.pdb
+C:\Users\User\AppData\Local\Temporary Projects\Poteca Invoice Generator\obj\Debug\Poteca_Invoice_Generator.Invoice_Print_Preview.resources
+C:\Users\User\Documents\Visual Studio 2008\Projects\Poteca Invoice Generator\Poteca Invoice Generator\obj\Debug\Poteca Invoice Generator.exe
+C:\Users\User\Documents\Visual Studio 2008\Projects\Poteca Invoice Generator\Poteca Invoice Generator\obj\Debug\Poteca Invoice Generator.xml
+C:\Users\User\Documents\Visual Studio 2008\Projects\Poteca Invoice Generator\Poteca Invoice Generator\obj\Debug\Poteca Invoice Generator.pdb
+C:\Users\User\Documents\Visual Studio 2008\Projects\Poteca Invoice Generator\Poteca Invoice Generator\bin\Debug\Poteca Invoice Generator.exe
+C:\Users\User\Documents\Visual Studio 2008\Projects\Poteca Invoice Generator\Poteca Invoice Generator\bin\Debug\Poteca Invoice Generator.pdb
+C:\Users\User\Documents\Visual Studio 2008\Projects\Poteca Invoice Generator\Poteca Invoice Generator\bin\Debug\Poteca Invoice Generator.xml
+C:\Users\User\Documents\Visual Studio 2008\Projects\Poteca Invoice Generator\Poteca Invoice Generator\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2008\Projects\Poteca Invoice Generator\Poteca Invoice Generator\obj\Debug\Poteca_Invoice_Generator.Invoice_Print_Preview.resources
+C:\Users\User\Documents\Visual Studio 2008\Projects\Poteca Invoice Generator\Poteca Invoice Generator\obj\Debug\Poteca_Invoice_Generator.Form1.resources
+C:\Users\User\Documents\Visual Studio 2008\Projects\Poteca Invoice Generator\Poteca Invoice Generator\obj\Debug\Poteca_Invoice_Generator.Resources.resources
+C:\Users\User\Documents\Visual Studio 2008\Projects\Poteca Invoice Generator\Poteca Invoice Generator\obj\Debug\Poteca Invoice Generator.vbproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2008\Projects\Poteca Invoice Generator\Poteca Invoice Generator\bin\Debug\Poteca Invoice Generator.exe.manifest
+C:\Users\User\Documents\Visual Studio 2008\Projects\Poteca Invoice Generator\Poteca Invoice Generator\bin\Debug\Poteca Invoice Generator.application
+C:\Users\User\Documents\Visual Studio 2008\Projects\Poteca Invoice Generator\Poteca Invoice Generator\obj\Debug\Poteca Invoice Generator.exe.manifest
+C:\Users\User\Documents\Visual Studio 2008\Projects\Poteca Invoice Generator\Poteca Invoice Generator\obj\Debug\Poteca Invoice Generator.application

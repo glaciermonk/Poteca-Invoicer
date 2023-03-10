@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1">
+  <asmv1:assemblyIdentity name="Poteca Invoice Generator.exe" version="1.0.0.10" publicKeyToken="8420913afed7c93f" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Poteca Invoice Generator" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Poteca Invoice Generator.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="2.0.50727.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="System.Core" version="3.5.0.0" publicKeyToken="b77a5c561934e089" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="WindowsBase" version="3.0.0.0" publicKeyToken="31bf3856ad364e35" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Poteca Invoice Generator.exe" size="153600">
+      <assemblyIdentity name="Poteca Invoice Generator" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>mX1ICe1zlMixdcI9t7CAvY9x/Ec=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Poteca Invoice Generator.exe.config" size="1321">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>MuIRn5c12CubM1EEL3HJ2n5QnJ8=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=DESKTOP-K2E6NS6\User" issuerKeyHash="e9173d84ecc10b000189caae1591123608e247dd" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>H6L710etSvidD5XWSmfrkxutoDQ=</DigestValue></Reference></SignedInfo><SignatureValue>ayHmF62ZOVgM607g5ud+/ArBKpvYoVb3j+XPxF/iN21A+aelfi5BB+IAgsPXSCyrgLZ63JhC1cEU4ksw9WEvSTd9HIhcyUYry9DhotBB7YfZI2hrotnBcCdiajVh8bSQ8EI5LrnsafVYc0t0lefee/7GjQbfb9hmDFZwo+IsCBU=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>yyhMiUUrYJBS38LdtoIADO57RCCb3g5zqg6ILUhf5YUigj8KsYsrN9MsdnPo7LmBctblUxJxIKXeIeFzSVakuLDQNJ9piSoqFRueCj8I41xKE1OLjKBgKgTJSnKX63GVp6wXwPpYpOVdv0oV2mu8kVCmhFrvCCAAv/5ZWaTQDRE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="34a0ad1b93eb674ad6950f9df84aad47d7fba21f" Description="" Url=""><as:assemblyIdentity name="Poteca Invoice Generator.exe" version="1.0.0.10" publicKeyToken="8420913afed7c93f" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-K2E6NS6\User</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>Qf/uF5NzvkhmCTOaP/oEuBK7ns4=</DigestValue></Reference></SignedInfo><SignatureValue>jEtK8v3Ey+7t6BFaOoHZXm/NwcORpQOsfB25Vb2hdnGTGcTlcYS9AHW/0hFOIWwTaosILMCYbv8brk4S3idS3GyIWQzuWtirm4pumW+He0o9QeHzopgXL8k6NlIrnrt1IJGsG5mg+rPAEig2t7IRHqnzT7P+9ob80XgU0/zzKVQ=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>yyhMiUUrYJBS38LdtoIADO57RCCb3g5zqg6ILUhf5YUigj8KsYsrN9MsdnPo7LmBctblUxJxIKXeIeFzSVakuLDQNJ9piSoqFRueCj8I41xKE1OLjKBgKgTJSnKX63GVp6wXwPpYpOVdv0oV2mu8kVCmhFrvCCAAv/5ZWaTQDRE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB6TCCAVKgAwIBAgIQPcQK9bF4prJJeK1rzgFZlDANBgkqhkiG9w0BAQUFADAzMTEwLwYDVQQDHigARABFAFMASwBUAE8AUAAtAEsAMgBFADYATgBTADYAXABVAHMAZQByMB4XDTIxMDYxNzE1MDA0OFoXDTIyMDYxNzIxMDA0OFowMzExMC8GA1UEAx4oAEQARQBTAEsAVABPAFAALQBLADIARQA2AE4AUwA2AFwAVQBzAGUAcjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAyyhMiUUrYJBS38LdtoIADO57RCCb3g5zqg6ILUhf5YUigj8KsYsrN9MsdnPo7LmBctblUxJxIKXeIeFzSVakuLDQNJ9piSoqFRueCj8I41xKE1OLjKBgKgTJSnKX63GVp6wXwPpYpOVdv0oV2mu8kVCmhFrvCCAAv/5ZWaTQDRECAwEAATANBgkqhkiG9w0BAQUFAAOBgQBmE5Yl0S8VcKvjEbwJoXiHJnVl6HdrbLuLP6ymrVl6pB+TmmziexGBKPzfcTH0fyrPFsGFTWvg9Sy89Nn2GWQaHaC7kh63QttR0Bzdfmdm7xlQKMy1qMXuhUfbcYoyeFSQgu7h6HCwgX766MtLZhknhf4NdJrICjXiq82HtB3g1g==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
